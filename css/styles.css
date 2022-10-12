@@ -1,0 +1,43 @@
+#main {
+    background-color: #eee;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#title, #subtitle,#tribute-info {
+    text-align: center;
+}
+figure {
+    background-color: white;
+    width: 90%;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    max-width: 100%;
+    height: auto;
+}
+#img-caption {
+    text-align: center;
+    padding: 15px;
+}
+
+#list {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#list li {
+    line-height: 35px;
+}
+
+footer {
+    font-size: 20px;
+    width: 65%;
+    margin: auto;
+}
